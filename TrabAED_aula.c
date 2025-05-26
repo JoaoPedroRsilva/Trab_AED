@@ -25,7 +25,7 @@ int main() {
 
 char* shortestCompletingWord(char* licensePlate, char** words, int wordsSize) {
     
-
+//
     int equalLetters[5] = {0};
     int wordSize[4] = {0};
     for(int i = 0; licensePlate[i] != '\0'; i++)

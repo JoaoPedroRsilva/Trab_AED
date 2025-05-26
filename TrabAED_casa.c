@@ -24,7 +24,7 @@ int main() {
 
     return 0;
 }
-
+//
 void allLowerCase ( char* licensePlate, int* letras ) // Passa para minusculo e armazena a frequencia
 {
      int tamLicensePlate = strlen( licensePlate );

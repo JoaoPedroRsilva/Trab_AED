@@ -24,7 +24,7 @@ Explanation: licensePlate contains letters 's', 'p', 's' (ignoring case), and 't
 "stripe" is missing an 's'.
 "stepple" is missing an 's'.
 Since "steps" is the only word containing all the letters, that is the answer.
-
+//
 Example 2:
 
 Input: licensePlate = "1s3 456", words = ["looks","pest","stew","show"]
